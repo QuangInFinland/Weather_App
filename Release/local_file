@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "apiKey": "c37bc522ccf0e106cd0d1be7e1ed9655",
+  "isCurrentWeather": true,
+  "chosenUnixTime": 979225200,
+  "isUnitSI": true,
+  "defaultPlace": {
+    "name": "Đà Nẵng",
+    "country": "VN",
+    "latitude": 20.9147215,
+    "longitude": 106.6735556
+  },
+  "favouritePlaces": [],
+  "searchHistories": []
+}

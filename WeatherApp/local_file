@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "apiKey": "c37bc522ccf0e106cd0d1be7e1ed9655",
+  "isCurrentWeather": true,
+  "chosenUnixTime": 979225200,
+  "isUnitSI": true,
+  "defaultPlace": {
+    "name": "Tampere",
+    "country": "FI",
+    "latitude": 61.4980214,
+    "longitude": 23.7603118
+  },
+  "favouritePlaces": [],
+  "searchHistories": [
+    {
+      "name": "Tampere",
+      "country": "FI",
+      "latitude": 61.4980214,
+      "longitude": 23.7603118
+    },
+    {
+      "name": "Helsinki",
+      "country": "FI",
+      "latitude": 60.1674881,
+      "longitude": 24.9427473
+    }
+  ]
+}

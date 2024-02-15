@@ -1,0 +1,53 @@
+{
+  "name": "my friend",
+  "apiKey": "c37bc52cf0e106cd0d1be7e1ed9655",
+  "isCurrentWeather": true,
+  "chosenUnixTime": 979171200,
+  "isUnitSI": true,
+  "defaultPlace": {
+    "name": "Stockholm",
+    "country": "SE",
+    "latitude": 59.3251172,
+    "longitude": 18.0710935
+  },
+  "favouritePlaces": [
+    {
+      "name": "Stockholm",
+      "country": "SE",
+      "latitude": 59.3251172,
+      "longitude": 18.0710935
+    },
+    {
+      "name": "Oslo",
+      "country": "NO",
+      "latitude": 59.9133301,
+      "longitude": 10.7389701
+    },
+    {
+      "name": "Tampere",
+      "country": "FI",
+      "latitude": 61.4980214,
+      "longitude": 23.7603118
+    }
+  ],
+  "searchHistories": [
+    {
+      "name": "Stockholm",
+      "country": "SE",
+      "latitude": 59.3251172,
+      "longitude": 18.0710935
+    },
+    {
+      "name": "Oslo",
+      "country": "NO",
+      "latitude": 59.9133301,
+      "longitude": 10.7389701
+    },
+    {
+      "name": "Tampere",
+      "country": "FI",
+      "latitude": 61.4980214,
+      "longitude": 23.7603118
+    }
+  ]
+}
